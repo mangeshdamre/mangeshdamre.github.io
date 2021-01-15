@@ -24,6 +24,20 @@ NIPER, Mohali, India.<br>
 2007-2011<br>
 Government College of Pharmacy, Amravati, MH, India.<br>
 
+### SKILLS
+Python R Bash Script LINUX<br>
+VMD, Pymol<br>
+INKSCAPE LATEX<br>
+Chemoinformatics Chemistry<br>
+GROMACS AMBER Autodock Sybyl-X Gastroplus Modeller Discovery Studio Maestro Schrodinger GLIDE Derek Nexus Toxtree<br>
+Molecular Dynamics Coarse-grained MD molecular docking Homology modeling 3D-QSAR Forcefield parameterization Virtual screening <br>
+Interdisciplinary Coordination Deep Science Research Project Management Scientific Writing Research and development<>br
+ 
+ 
+
+Proficient in , Chemistry
+
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
