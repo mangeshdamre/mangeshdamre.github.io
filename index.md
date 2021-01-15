@@ -39,7 +39,7 @@ Interdisciplinary Coordination Deep Science Research Project Management Scientif
 • Best poster award winner in The European Iron Club, 2018, ETH Z¨urich<br>
 • Oral presentation in Winter School Canazei, Applied bioinformatics, 2018, Verona, Italy<br>
 • Best poster award winner in 5th DMPK, 2014, NIPER, Mohali, India<br>
-• Developed web server : (<a href="https://molsim.sci.univr.it/mangesh/index.php">MERMAID</a>) Martini Coarse Grained Membrane Protein Dynamics<br>
+• Developed web server : (<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID</a>) Martini Coarse Grained Membrane Protein Dynamics<br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
