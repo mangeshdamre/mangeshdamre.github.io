@@ -34,7 +34,12 @@ Molecular Dynamics Coarse-grained MD molecular docking Homology modeling 3D-QSAR
 Interdisciplinary Coordination Deep Science Research Project Management Scientific Writing Research and development<>br
 
 ## ACCOMPLISHMENTS
-
+• Oral presentation in American Physical Society (APS), 2020, Denver, Colorado
+• Poster presentation in Biophysical Society (BPS), 2018, SanFrancisco, California
+• Best poster award winner in The European Iron Club, 2018, ETH Z¨urich
+• Oral presentation in Winter School Canazei, Applied bioinformatics, 2018, Verona, Italy
+• Best poster award winner in 5th DMPK, 2014, NIPER, Mohali, India
+• Developed web server : (MERMAID) Martini Coarse Grained Membrane Protein Dynamics
 
 
 ---
