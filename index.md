@@ -2,10 +2,8 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### INTRODUCTION 
+Highly motivated Postdoctoral Researcher conducts Computational Chemistry research and participates in brainstorming topics that demonstrate experience with complex data analysis and high-performance computing. Dedicated, versatile computational chemist, author and co-author of international publications in peer-reviewed journals with extensive research experience in molecular modeling. Recent PhD in Neurobiology (Computational) with effective verbal and written communication skills to deliver excellent presentations and prepare written reports. Broad range of knowledge in advanced computational techniques. Develop and apply computational methods in the fields of biophysics, chemistry and other computationally intensive areas. Optimize and parallelize scientific programs for conventional clusters, supercomputers and GPU accelerated computers. Solve challenging problems in computational biophysics/ chemistry field through varied skills and interdisciplinary science knowledge.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
