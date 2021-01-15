@@ -7,14 +7,14 @@ Highly motivated Postdoctoral Researcher conducts Computational Chemistry resear
 
 ### EDUCATION
 [1] PhD in Computational Neurobiology<br>
-2014-2018
-SISSA, Treiste, Italy.
-[2] MS Pharmacoinformatics
-2011-2013
-NIPER, Mohali, India.
-[3] B.Pharm
-2007-2011
-Government College of Pharmacy, Amravati, MH, India.
+2014-2018<br>
+SISSA, Treiste, Italy.<br>
+[2] MS Pharmacoinformatics<br>
+2011-2013<br>
+NIPER, Mohali, India.<br>
+[3] B.Pharm<br>
+2007-2011<br>
+Government College of Pharmacy, Amravati, MH, India.<br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
