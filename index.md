@@ -32,10 +32,9 @@ Chemoinformatics Chemistry<br>
 GROMACS AMBER Autodock Sybyl-X Gastroplus Modeller Discovery Studio Maestro Schrodinger GLIDE Derek Nexus Toxtree<br>
 Molecular Dynamics Coarse-grained MD molecular docking Homology modeling 3D-QSAR Forcefield parameterization Virtual screening <br>
 Interdisciplinary Coordination Deep Science Research Project Management Scientific Writing Research and development<>br
- 
- 
 
-Proficient in , Chemistry
+## ACCOMPLISHMENTS
+
 
 
 ---
