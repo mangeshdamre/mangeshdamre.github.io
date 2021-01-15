@@ -31,15 +31,15 @@ INKSCAPE LATEX<br>
 Chemoinformatics Chemistry<br>
 GROMACS AMBER Autodock Sybyl-X Gastroplus Modeller Discovery Studio Maestro Schrodinger GLIDE Derek Nexus Toxtree<br>
 Molecular Dynamics Coarse-grained MD molecular docking Homology modeling 3D-QSAR Forcefield parameterization Virtual screening <br>
-Interdisciplinary Coordination Deep Science Research Project Management Scientific Writing Research and development<>br
+Interdisciplinary Coordination Deep Science Research Project Management Scientific Writing Research and development<br>
 
 ### ACCOMPLISHMENTS
-• Oral presentation in American Physical Society (APS), 2020, Denver, Colorado
-• Poster presentation in Biophysical Society (BPS), 2018, SanFrancisco, California
-• Best poster award winner in The European Iron Club, 2018, ETH Z¨urich
-• Oral presentation in Winter School Canazei, Applied bioinformatics, 2018, Verona, Italy
-• Best poster award winner in 5th DMPK, 2014, NIPER, Mohali, India
-• Developed web server : (<a href="https://molsim.sci.univr.it/mangesh/index.php">MERMAID</a>) Martini Coarse Grained Membrane Protein Dynamics
+• Oral presentation in American Physical Society (APS), 2020, Denver, Colorado<br>
+• Poster presentation in Biophysical Society (BPS), 2018, SanFrancisco, California<br>
+• Best poster award winner in The European Iron Club, 2018, ETH Z¨urich<br>
+• Oral presentation in Winter School Canazei, Applied bioinformatics, 2018, Verona, Italy<br>
+• Best poster award winner in 5th DMPK, 2014, NIPER, Mohali, India<br>
+• Developed web server : (<a href="https://molsim.sci.univr.it/mangesh/index.php">MERMAID</a>) Martini Coarse Grained Membrane Protein Dynamics<br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
