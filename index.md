@@ -44,7 +44,7 @@ Interdisciplinary Coordination Deep Science Research Project Management Scientif
 • Developed web server : (<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID</a>) Martini Coarse Grained Membrane Protein Dynamics<br>
 
 ### PUBLICATIONS
-1. M. DAMRE, A. Dayananda, R. A. Varikoti, G. Stan, and R. I. Dima, \Factors underlying asymmetric dynamics of disaggregase and microtubule severing AAA+ machines," bioRχiv, nov 2020<br>
+1. M. DAMRE, A. Dayananda, R. A. Varikoti, G. Stan, and R. I. Dima, Factors underlying asymmetric dynamics of disaggregase and microtubule severing AAA+ machines," bioRχiv, nov 2020<br>
 2. M. DAMRE, R. A. Varikoti, and R. Dima, \Molecular dynamics study of katanin oligomeres: A mt-severing enzyme," Bulletin of the American Physical Society, vol. 65, 2020<br>
 3. M. DAMRE, A. Marchetto, and A. Giorgetti, \Mermaid: dedicated web server to prepare and run coarse-grained membrane protein dynamics," Nucleic acids research, vol. 47, no. W1, pp. W456{W461, 2019<br>
 4. M. V. DAMRE et al., \Computational studies on membrane proteins (bovine cnga1 & mouse tspo)," Ph.D. dissertation, SISSA, Trieste, Italy, 2018<br>
