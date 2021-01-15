@@ -9,5 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/mangesh-damre/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/mangesh-damre/">View My LinkedIn Profile</a>
+  <a href="https://orcid.org/0000-0002-4371-3815/">View My ORCID Profile</a>
+  <a href="https://www.researchgate.net/profile/Mangesh_Damre">View My ResearchGate Profile</a>
 theme: jekyll-theme-minimal
