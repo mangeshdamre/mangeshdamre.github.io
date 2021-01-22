@@ -36,12 +36,12 @@ Molecular Dynamics Coarse-grained MD molecular docking Homology modeling 3D-QSAR
 Interdisciplinary Coordination Deep Science Research Project Management Scientific Writing Research and development<br>
 
 ### ACCOMPLISHMENTS
-• Oral presentation in American Physical Society (APS), 2020, Denver, Colorado<br>
-• Poster presentation in Biophysical Society (BPS), 2018, SanFrancisco, California<br>
-• Best poster award winner in The European Iron Club, 2018, ETH Z¨urich<br>
-• Oral presentation in Winter School Canazei, Applied bioinformatics, 2018, Verona, Italy<br>
-• Best poster award winner in 5th DMPK, 2014, NIPER, Mohali, India<br>
-• Developed web server : (<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID</a>) Martini Coarse Grained Membrane Protein Dynamics<br>
+- Oral presentation in American Physical Society (APS), 2020, Denver, Colorado<br>
+- Poster presentation in Biophysical Society (BPS), 2018, SanFrancisco, California<br>
+- Best poster award winner in The European Iron Club, 2018, ETH Z¨urich<br>
+- Oral presentation in Winter School Canazei, Applied bioinformatics, 2018, Verona, Italy<br>
+- Best poster award winner in 5th DMPK, 2014, NIPER, Mohali, India<br>
+- Developed web server : (<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID</a>) Martini Coarse Grained Membrane Protein Dynamics<br>
 
 ### PUBLICATIONS
 1. M. DAMRE, A. Dayananda, R. A. Varikoti, G. Stan, and R. I. Dima, Factors underlying asymmetric dynamics of disaggregase and microtubule severing AAA+ machines," bioRχiv, nov 2020<br>
