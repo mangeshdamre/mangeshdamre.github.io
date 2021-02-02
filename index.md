@@ -74,7 +74,4 @@ Interdisciplinary Coordination, Deep Science Research, Project Management, Scien
 22. U. Singh, R. P. Gangwal, G. V. Dhoke, R. Prajapati, <span style="color: blue;">M. DAMRE</span>, and A. T. Sangamwar, 3d-qsar and molecular docking analysis of (4-piperidinyl)-piperazines as acetyl-coa carboxylases inhibitors," Arabian Journal of Chemistry, 2012<br>
 
 ---
-[Resume](/pdf/Mangesh_Damre_Resume.pdf)
-<img src="images/resume-logo?raw=true"/>
----
 <!-- Remove above link if you don't want to attibute -->
