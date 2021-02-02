@@ -27,13 +27,13 @@ NIPER, Mohali, India<br><br>
    Government College of Pharmacy, Amravati, MH, India.<br>
 
 ### SKILLS
-Python R Bash Script LINUX<br>
+Python, R, Bash Script, LINUX<br>
 VMD, Pymol<br>
-INKSCAPE LATEX<br>
-Chemoinformatics Chemistry<br>
-GROMACS AMBER Autodock Sybyl-X Gastroplus Modeller Discovery Studio Maestro Schrodinger GLIDE Derek Nexus Toxtree<br>
-Molecular Dynamics Coarse-grained MD molecular docking Homology modeling 3D-QSAR Forcefield parameterization Virtual screening <br>
-Interdisciplinary Coordination Deep Science Research Project Management Scientific Writing Research and development<br>
+INKSCAPE, LATEX<br>
+Chemoinformatics, Chemistry<br>
+GROMACS, AMBER, Autodock, Sybyl-X, Gastroplus, Modeller, Discovery Studio, Maestro, Schrodinger GLIDE, Derek Nexus, Toxtree<br>
+Molecular Dynamics, Coarse-grained MD, molecular docking, Homology modeling, 3D-QSAR, Forcefield parameterization, Virtual screening <br>
+Interdisciplinary Coordination, Deep Science Research, Project Management, Scientific Writing, Research and development<br>
 
 ### ACCOMPLISHMENTS
 - Oral presentation in American Physical Society (APS), 2020, Denver, Colorado<br>
@@ -68,27 +68,8 @@ Interdisciplinary Coordination Deep Science Research Project Management Scientif
 22. U. Singh, R. P. Gangwal, G. V. Dhoke, R. Prajapati, M. DAMRE, and A. T. Sangamwar, 3d-qsar and molecular docking analysis of (4-piperidinyl)-piperazines as acetyl-coa carboxylases inhibitors," Arabian Journal of Chemistry, 2012<br>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+[Resume](/pdf/Mangesh_Damre_Resume.pdf)
+<img src="images/resume-logo?raw=true"/>
 
 ---
 <!-- Remove above link if you don't want to attibute -->
