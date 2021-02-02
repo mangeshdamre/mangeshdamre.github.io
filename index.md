@@ -33,13 +33,13 @@ NIPER, Mohali, India<br>
    Government College of Pharmacy, Amravati, MH, India.<br>
 
 ### SKILLS
-<span style="background-color: blue; color: white">Python, R, Bash Script, LINUX</span>
+<p align="justify"><span style="background-color: blue; color: white">Python, R, Bash Script, LINUX</span>
 <span style="background-color: red; color: white">VMD, Pymol</span>
 <span style="background-color: green; color: white">INKSCAPE, LATEX</span>
 <span style="background-color: magenta; color: white">Chemoinformatics, Chemistry</span>
 <span style="background-color: gray; color: white">GROMACS, AMBER, Autodock, Sybyl-X, Gastroplus, Modeller, Discovery Studio, Maestro, Schrodinger GLIDE, Derek Nexus, Toxtree</span>
 <span style="background-color: orange; color: black">Molecular Dynamics, Coarse-grained MD, molecular docking, Homology modeling, 3D-QSAR, Forcefield parameterization, Virtual screening</span>
-<span style="background-color: teal; color: white">Interdisciplinary Coordination, Deep Science Research, Project Management, Scientific Writing, Research and development</span><br>
+<span style="background-color: teal; color: white">Interdisciplinary Coordination, Deep Science Research, Project Management, Scientific Writing, Research and development</span></p><br>
 
 ### ACCOMPLISHMENTS
 - Oral presentation in <span style="color: red;"> American Physical Society (APS) </span>, 2020, Denver, Colorado<br>
