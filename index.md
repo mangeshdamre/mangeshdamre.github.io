@@ -36,7 +36,7 @@ Molecular Dynamics, Coarse-grained MD, molecular docking, Homology modeling, 3D-
 Interdisciplinary Coordination, Deep Science Research, Project Management, Scientific Writing, Research and development<br>
 
 ### ACCOMPLISHMENTS
-- Oral presentation in <div class="text-white bg-blue mb-2"> American Physical Society (APS) </div>, 2020, Denver, Colorado<br>
+- Oral presentation in <span style="color: red;"> American Physical Society (APS) </span>, 2020, Denver, Colorado<br>
 - Poster presentation in <div class="text-white bg-blue mb-2">Biophysical Society (BPS)</div>, 2018, SanFrancisco, California<br>
 - Best poster award winner in <div class="text-white bg-blue mb-2">The European Iron Club</div>, 2018, ETH Z¨urich<br>
 - Oral presentation in <div class="text-white bg-blue mb-2">Winter School Canazei, Applied bioinformatics</div>, 2018, Verona, Italy<br>
