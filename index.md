@@ -19,7 +19,7 @@ University of Cincinnati, OH, 45239, USA<br>
 2. **Junior Research Fellow**<br>
 08/2013-03/2014<br>
 Department of Pharmacoinformatics<br>
-NIPER, Mohali, India<br><br>
+NIPER, Mohali, India<br>
 
 ### EDUCATION
 1. **PhD in Computational Neurobiology**<br>
@@ -33,9 +33,9 @@ NIPER, Mohali, India<br><br>
    Government College of Pharmacy, Amravati, MH, India.<br>
 
 ### SKILLS
-Python, R, Bash Script, LINUX<br>
-VMD, Pymol<br>
-INKSCAPE, LATEX<br>
+<span style="background-color: blue; color: white">Python, R, Bash Script, LINUX</span><br>
+<span style="background-color: red; color: white">VMD, Pymol</span><br>
+<span style="background-color: green; color: white">INKSCAPE, LATEX</span><br>
 Chemoinformatics, Chemistry<br>
 GROMACS, AMBER, Autodock, Sybyl-X, Gastroplus, Modeller, Discovery Studio, Maestro, Schrodinger GLIDE, Derek Nexus, Toxtree<br>
 Molecular Dynamics, Coarse-grained MD, molecular docking, Homology modeling, 3D-QSAR, Forcefield parameterization, Virtual screening <br>
