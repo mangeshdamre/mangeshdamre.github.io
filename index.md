@@ -37,11 +37,11 @@ Interdisciplinary Coordination, Deep Science Research, Project Management, Scien
 
 ### ACCOMPLISHMENTS
 - Oral presentation in <span style="color: red;"> American Physical Society (APS) </span>, 2020, Denver, Colorado<br>
-- Poster presentation in <div class="text-white bg-blue mb-2">Biophysical Society (BPS)</div>, 2018, SanFrancisco, California<br>
-- Best poster award winner in <div class="text-white bg-blue mb-2">The European Iron Club</div>, 2018, ETH Z¨urich<br>
-- Oral presentation in <div class="text-white bg-blue mb-2">Winter School Canazei, Applied bioinformatics</div>, 2018, Verona, Italy<br>
-- Best poster award winner in 5th <div class="text-white bg-blue mb-2">DMPK</div>, 2014, NIPER, Mohali, India<br>
-- <div class="text-white bg-blue mb-2">Developed web server</div> : (**<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID</a>**) Martini Coarse Grained Membrane Protein Dynamics<br>
+- Poster presentation in <span style="color: red;"Biophysical Society (BPS)</span>, 2018, SanFrancisco, California<br>
+- Best poster award winner in <span style="color: red;"The European Iron Club</span>, 2018, ETH Z¨urich<br>
+- Oral presentation in <span style="color: red;"Winter School Canazei, Applied bioinformatics</span>, 2018, Verona, Italy<br>
+- Best poster award winner in 5th <span style="color: red;"DMPK</span>, 2014, NIPER, Mohali, India<br>
+- <span style="color: red;"Developed web server</div> : (**<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID</a>**) Martini Coarse Grained Membrane Protein Dynamics<br>
 
 ### PUBLICATIONS
 1. M. DAMRE, A. Dayananda, R. A. Varikoti, G. Stan, and R. I. Dima, Factors underlying asymmetric dynamics of disaggregase and microtubule severing AAA+ machines," bioRχiv, nov 2020<br>
