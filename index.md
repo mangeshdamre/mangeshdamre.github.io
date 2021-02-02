@@ -39,7 +39,7 @@ NIPER, Mohali, India<br>
 <span style="background-color: magenta; color: white">Chemoinformatics, Chemistry</span>
 <span style="background-color: gray; color: white">GROMACS, AMBER, Autodock, Sybyl-X, Gastroplus, Modeller, Discovery Studio, Maestro, Schrodinger GLIDE, Derek Nexus, Toxtree</span>
 <span style="background-color: orange; color: black">Molecular Dynamics, Coarse-grained MD, Molecular Docking, Homology Modeling, 3D-QSAR, Forcefield Parameterization, Virtual Screening</span>
-<span style="background-color: teal; color: white">Interdisciplinary Coordination, Deep Science Research, Project Management, Scientific Writing, Research and development</span></p><br>
+<span style="background-color: teal; color: white">Interdisciplinary Coordination, Deep Science Research, Project Management, Scientific Writing, Research and development</span></p>
 
 ### ACCOMPLISHMENTS
 - Oral presentation in <span style="color: red;"> American Physical Society (APS) </span>, 2020, Denver, Colorado<br>
