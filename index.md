@@ -77,5 +77,8 @@ Interdisciplinary Coordination, Deep Science Research, Project Management, Scien
 [Resume](/pdf/Mangesh_Damre_Resume.pdf)
 <img src="images/resume-logo?raw=true"/>
 
+<div class="text-purple mb-2">
+  .text-purple on white
+</div>
 ---
 <!-- Remove above link if you don't want to attibute -->
