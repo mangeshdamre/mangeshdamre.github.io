@@ -4,7 +4,7 @@ H2{color:DarkOrange !important;}
 H3{color:DarkGreen !important;}
 </style>
 
-## <span style="background-color: aqua;">Portfolio</span>
+## <span style="background-color: aqua; style="color: white;">Portfolio</span>
 
 ---
 
