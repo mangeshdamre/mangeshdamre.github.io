@@ -1,3 +1,8 @@
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+</style>
+
 ## Portfolio
 
 ---
