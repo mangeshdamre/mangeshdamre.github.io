@@ -1,7 +1,7 @@
 <style>
 H1{color:Blue !important;}
 H2{color:White !important; background-color: DarkBlue;}
-H3{color:DarkGreen !important;}
+H3{color:DarkGreen !important; background-color: LightBlue;}
 </style>
 
 ## Portfolio
