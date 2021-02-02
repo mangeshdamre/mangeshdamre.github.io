@@ -35,10 +35,10 @@ NIPER, Mohali, India<br>
 ### SKILLS
 <p align="justify"><span style="background-color: blue; color: white">Python, R, Bash Script, LINUX</span>
 <span style="background-color: red; color: white">VMD, Pymol</span>
-<span style="background-color: green; color: white">INKSCAPE, LATEX</span>
+<span style="background-color: green; color: white">Inkscape, LaTeX</span>
 <span style="background-color: magenta; color: white">Chemoinformatics, Chemistry</span>
 <span style="background-color: gray; color: white">GROMACS, AMBER, Autodock, Sybyl-X, Gastroplus, Modeller, Discovery Studio, Maestro, Schrodinger GLIDE, Derek Nexus, Toxtree</span>
-<span style="background-color: orange; color: black">Molecular Dynamics, Coarse-grained MD, molecular docking, Homology modeling, 3D-QSAR, Forcefield parameterization, Virtual screening</span>
+<span style="background-color: orange; color: black">Molecular Dynamics, Coarse-grained MD, Molecular Docking, Homology Modeling, 3D-QSAR, Forcefield Parameterization, Virtual Screening</span>
 <span style="background-color: teal; color: white">Interdisciplinary Coordination, Deep Science Research, Project Management, Scientific Writing, Research and development</span></p><br>
 
 ### ACCOMPLISHMENTS
