@@ -1,10 +1,10 @@
 <style>
 H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
+H2{color:DarkOrange !important; background-color: aqua;}
 H3{color:DarkGreen !important;}
 </style>
 
-## <span style="background-color: aqua; color: white">Portfolio</span>
+## Portfolio
 
 ---
 
