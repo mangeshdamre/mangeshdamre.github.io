@@ -52,7 +52,7 @@ NIPER, Mohali, India<br>
 ### PUBLICATIONS
 <p align="justify">
    1. <span style="color: blue;">M. DAMRE</span>, A. Dayananda, R. A. Varikoti, G. Stan, and R. I. Dima, Factors underlying asymmetric dynamics of disaggregase and microtubule severing AAA+ machines," bioRχiv, nov 2020.
-   2. <span style="color: blue;">M. DAMRE</span>, R. A. Varikoti, and R. Dima, Molecular dynamics study of katanin oligomeres: A mt-severing enzyme," Bulletin of the American Physical Society, vol. 65, 2020.
+   1. <span style="color: blue;">M. DAMRE</span>, R. A. Varikoti, and R. Dima, Molecular dynamics study of katanin oligomeres: A mt-severing enzyme," Bulletin of the American Physical Society, vol. 65, 2020.
    3. <span style="color: blue;">M. DAMRE</span>, A. Marchetto, and A. Giorgetti, Mermaid: dedicated web server to prepare and run coarse-grained membrane protein dynamics," Nucleic acids research, vol. 47, no. W1, pp. W456{W461, 2019.
    4. <span style="color: blue;">M. V. DAMRE</span> et al., Computational studies on membrane proteins (bovine cnga1 & mouse tspo)," Ph.D. dissertation, SISSA, Trieste, Italy, 2018.
    5. J. Zeng, R. Guareschi, <span style="color: blue;">M. DAMRE</span>, R. Cao, A. Kless, B. Neumaier, A. Bauer, A. Giorgetti, P. Carloni, and G. Rossetti, Structural prediction of the dimeric form of the mammalian translocator membrane protein tspo: a key target for brain diagnostics," International journal of molecular sciences, vol. 19, no. 9, p. 2588, 2018.
