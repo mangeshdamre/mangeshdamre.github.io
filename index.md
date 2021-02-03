@@ -13,24 +13,24 @@ H3{color:White !important; background-color: DarkGreen;}
 
 ### WORK EXPERIENCE
 1. **PostDoctoral Researcher** \
- 02/2019-continue... \
- Department of Chemistry \
- University of Cincinnati, OH, 45239, USA
+02/2019-continue... \
+Department of Chemistry \
+University of Cincinnati, OH, 45239, USA
 2. **Junior Research Fellow** \
- 08/2013-03/2014 \
- Department of Pharmacoinformatics \
- NIPER, Mohali, India
+08/2013-03/2014 \
+Department of Pharmacoinformatics \
+NIPER, Mohali, India
 
 ### EDUCATION
-1. **PhD in Computational Neurobiology**<br>
-   2014-2018<br>
-   SISSA, Treiste, Italy.<br>
-2. **MS Pharmacoinformatics**<br>
-   2011-2013<br>
-   NIPER, Mohali, India.<br>
-3. **B.Pharm**<br>
-   2007-2011<br>
-   Government College of Pharmacy, Amravati, MH, India.<br>
+1. **PhD in Computational Neurobiology** \
+2014-2018 \
+SISSA, Treiste, Italy
+2. **MS Pharmacoinformatics** \
+2011-2013 \
+NIPER, Mohali, India
+3. **B.Pharm** \
+2007-2011 \
+Government College of Pharmacy, Amravati, MH, India
 
 ### SKILLS
 <p align="justify"><span style="background-color: blue; color: white">Python, R, Bash Script, LINUX</span>
