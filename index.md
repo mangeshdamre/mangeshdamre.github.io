@@ -13,7 +13,7 @@ H3{color:White !important; background-color: DarkGreen;}
 
 ### WORK EXPERIENCE
 1. **PostDoctoral Researcher** \
-02/2019-continue... \
+>02/2019-continue... \
 Department of Chemistry \
 University of Cincinnati, OH, 45239, USA
 2. **Junior Research Fellow** \
