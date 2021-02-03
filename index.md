@@ -17,7 +17,6 @@ H3{color:White !important; background-color: DarkGreen;}
 02/2019-continue...
 Department of Chemistry
 University of Cincinnati, OH, 45239, USA
-+
 2. **Junior Research Fellow**<br>
 08/2013-03/2014<br>
 Department of Pharmacoinformatics<br>
