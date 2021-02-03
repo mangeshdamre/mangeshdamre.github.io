@@ -12,10 +12,10 @@ H3{color:White !important; background-color: DarkGreen;}
 <p align="justify">Highly motivated Postdoctoral Researcher conducts Computational Chemistry research and participates in brainstorming topics that demonstrate experience with complex data analysis and high-performance computing. Dedicated, versatile computational chemist, author and co-author of international publications in peer-reviewed journals with extensive research experience in molecular modeling. Recent PhD in Neurobiology (Computational) with effective verbal and written communication skills to deliver excellent presentations and prepare written reports. Broad range of knowledge in advanced computational techniques. Develop and apply computational methods in the fields of biophysics, chemistry and other computationally intensive areas. Optimize and parallelize scientific programs for conventional clusters, supercomputers and GPU accelerated computers. Solve challenging problems in computational biophysics/ chemistry field through varied skills and interdisciplinary science knowledge.</p>
 
 ### WORK EXPERIENCE
-1. **PostDoctoral Researcher**<br>
-02/2019-continue...<br>
-Department of Chemistry<br>
-University of Cincinnati, OH, 45239, USA<br>
+1. **PostDoctoral Researcher**
+```02/2019-continue...
+Department of Chemistry
+University of Cincinnati, OH, 45239, USA```
 2. **Junior Research Fellow**<br>
 08/2013-03/2014<br>
 Department of Pharmacoinformatics<br>
