@@ -50,9 +50,6 @@ NIPER, Mohali, India<br>
 - <span style="color: red;">Developed web server</span> : (**<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID</a>**) Martini Coarse Grained Membrane Protein Dynamics<br>
 
 ### PUBLICATIONS
-<p align="justify">
-   ### Page types
-
 - **post** - To write a blog post, add a markdown or HTML file in the `_posts` folder. As long as you give it YAML front matter (the two lines of three dashes), it will automatically be rendered like a blog post. Look at the existing blog post files to see examples of how to use YAML parameters in blog posts.
 - **page** - Any page outside the `_posts` folder that uses YAML front matter will have a very similar style to blog posts.
 - **minimal** - If you want to create a page with minimal styling (ie. without the bulky navigation bar and footer), assign `layout: minimal` to the YAML front matter.
@@ -79,7 +76,7 @@ NIPER, Mohali, India<br>
    19. M. Lalit, R. P. Gangwal, G. V. Dhoke, <span style="color: blue;">M. V. DAMRE</span>, K. Khandelwal, and A. T. Sangamwar, A combined pharmacophore modeling, 3d-qsar and molecular docking study of substituted bicyclo-[3.3. 0] oct-2-enes as liver receptor homolog-1 (lrh-1) agonists," Journal of Molecular Structure, vol. 1049, pp. 315{325, 2013
    20. R. P. Gangwal, A. Bhadauriya, <span style="color: blue;">M. V. DAMRE</span>, G. V. Dhoke, and A. T. Sangamwar, p38 mitogen-activated protein kinase inhibitors: a review on pharmacophore mapping and qsar studies," Current topics in medicinal chemistry, vol. 13, no. 9, pp. 1015{1035, 2013
    21. A. Bhadauriya, G. V. Dhoke, R. P. Gangwal, <span style="color: blue;">M. V. DAMRE</span>, and A. T. Sangamwar, Identification of dual acetylcoa carboxylases 1 and 2 inhibitors by pharmacophore based virtual screening and molecular docking approach," Molecular diversity, vol. 17, no. 1, pp. 139{149, 2013
-   22. U. Singh, R. P. Gangwal, G. V. Dhoke, R. Prajapati, <span style="color: blue;">M. DAMRE</span>, and A. T. Sangamwar, 3d-qsar and molecular docking analysis of (4-piperidinyl)-piperazines as acetyl-coa carboxylases inhibitors," Arabian Journal of Chemistry, 2012</p><br>
+   22. U. Singh, R. P. Gangwal, G. V. Dhoke, R. Prajapati, <span style="color: blue;">M. DAMRE</span>, and A. T. Sangamwar, 3d-qsar and molecular docking analysis of (4-piperidinyl)-piperazines as acetyl-coa carboxylases inhibitors," Arabian Journal of Chemistry, 2012<br>
 
 ---
 ![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
