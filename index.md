@@ -50,7 +50,7 @@ NIPER, Mohali, India<br>
 - <span style="color: red;">Developed web server</span> : (**<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID</a>**) Martini Coarse Grained Membrane Protein Dynamics<br>
 
 ### PUBLICATIONS
-1. <span style="color: blue;">M. DAMRE</span>, A. Dayananda, R. A. Varikoti, G. Stan, and R. I. Dima, Factors underlying asymmetric dynamics of disaggregase and microtubule severing AAA+ machines," bioRχiv, nov 2020<br>
+<p align="justify">1. <span style="color: blue;">M. DAMRE</span>, A. Dayananda, R. A. Varikoti, G. Stan, and R. I. Dima, Factors underlying asymmetric dynamics of disaggregase and microtubule severing AAA+ machines," bioRχiv, nov 2020<br>
 2. <span style="color: blue;">M. DAMRE</span>, R. A. Varikoti, and R. Dima, Molecular dynamics study of katanin oligomeres: A mt-severing enzyme," Bulletin of the American Physical Society, vol. 65, 2020<br>
 3. <span style="color: blue;">M. DAMRE</span>, A. Marchetto, and A. Giorgetti, Mermaid: dedicated web server to prepare and run coarse-grained membrane protein dynamics," Nucleic acids research, vol. 47, no. W1, pp. W456{W461, 2019<br>
 4. <span style="color: blue;">M. V. DAMRE</span> et al., Computational studies on membrane proteins (bovine cnga1 & mouse tspo)," Ph.D. dissertation, SISSA, Trieste, Italy, 2018<br>
@@ -71,7 +71,7 @@ NIPER, Mohali, India<br>
 19. M. Lalit, R. P. Gangwal, G. V. Dhoke, <span style="color: blue;">M. V. DAMRE</span>, K. Khandelwal, and A. T. Sangamwar, A combined pharmacophore modeling, 3d-qsar and molecular docking study of substituted bicyclo-[3.3. 0] oct-2-enes as liver receptor homolog-1 (lrh-1) agonists," Journal of Molecular Structure, vol. 1049, pp. 315{325, 2013<br>
 20. R. P. Gangwal, A. Bhadauriya, <span style="color: blue;">M. V. DAMRE</span>, G. V. Dhoke, and A. T. Sangamwar, p38 mitogen-activated protein kinase inhibitors: a review on pharmacophore mapping and qsar studies," Current topics in medicinal chemistry, vol. 13, no. 9, pp. 1015{1035, 2013<br>
 21. A. Bhadauriya, G. V. Dhoke, R. P. Gangwal, <span style="color: blue;">M. V. DAMRE</span>, and A. T. Sangamwar, Identification of dual acetylcoa carboxylases 1 and 2 inhibitors by pharmacophore based virtual screening and molecular docking approach," Molecular diversity, vol. 17, no. 1, pp. 139{149, 2013<br>
-22. U. Singh, R. P. Gangwal, G. V. Dhoke, R. Prajapati, <span style="color: blue;">M. DAMRE</span>, and A. T. Sangamwar, 3d-qsar and molecular docking analysis of (4-piperidinyl)-piperazines as acetyl-coa carboxylases inhibitors," Arabian Journal of Chemistry, 2012<br>
+22. U. Singh, R. P. Gangwal, G. V. Dhoke, R. Prajapati, <span style="color: blue;">M. DAMRE</span>, and A. T. Sangamwar, 3d-qsar and molecular docking analysis of (4-piperidinyl)-piperazines as acetyl-coa carboxylases inhibitors," Arabian Journal of Chemistry, 2012</p><br>
 
 ---
 ![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
