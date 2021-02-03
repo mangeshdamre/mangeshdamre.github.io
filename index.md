@@ -15,7 +15,7 @@ H3{color:White !important; background-color: DarkGreen;}
 1. **PostDoctoral Researcher** \
 02/2019-continue... \
 Department of Chemistry \
-University of Cincinnati, OH, 45239, USA [!Favicon]("/images/Wikipedia-Flags-US-United-States-Flag.ico")
+University of Cincinnati, OH, 45239, USA [!Favicon](https://github.com/mangeshdamre/mangeshdamre.github.io/blob/main/images/Wikipedia-Flags-US-United-States-Flag.ico)
 2. **Junior Research Fellow** \
 08/2013-03/2014 \
 Department of Pharmacoinformatics \
