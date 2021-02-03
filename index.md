@@ -13,7 +13,7 @@ H3{color:White !important; background-color: DarkGreen;}
 
 ### WORK EXPERIENCE
 1. **PostDoctoral Researcher** \
->02/2019-continue... \
+02/2019-continue... \
 Department of Chemistry \
 University of Cincinnati, OH, 45239, USA
 2. **Junior Research Fellow** \
@@ -35,7 +35,7 @@ Government College of Pharmacy, Amravati, MH, India
 ### SKILLS
 <p align="justify"><span style="background-color: blue; color: white">Python, R, Bash Script, LINUX</span>
 <span style="background-color: red; color: white">VMD, Pymol</span>
-<span style="background-color: green; color: white">Inkscape, {\LaTeX}</span>
+<span style="background-color: green; color: white">Inkscape, LaTeX</span>
 <span style="background-color: magenta; color: white">Chemoinformatics, Chemistry</span>
 <span style="background-color: gray; color: white">GROMACS, AMBER, Autodock, Sybyl-X, Gastroplus, Modeller, Discovery Studio, Maestro, Schrodinger GLIDE, Derek Nexus, Toxtree</span>
 <span style="background-color: orange; color: black">Molecular Dynamics, Coarse-grained MD, Molecular Docking, Homology Modeling, 3D-QSAR, Forcefield Parameterization, Virtual Screening</span>
