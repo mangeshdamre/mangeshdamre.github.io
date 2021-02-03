@@ -51,6 +51,13 @@ NIPER, Mohali, India<br>
 
 ### PUBLICATIONS
 <p align="justify">
+   ### Page types
+
+- **post** - To write a blog post, add a markdown or HTML file in the `_posts` folder. As long as you give it YAML front matter (the two lines of three dashes), it will automatically be rendered like a blog post. Look at the existing blog post files to see examples of how to use YAML parameters in blog posts.
+- **page** - Any page outside the `_posts` folder that uses YAML front matter will have a very similar style to blog posts.
+- **minimal** - If you want to create a page with minimal styling (ie. without the bulky navigation bar and footer), assign `layout: minimal` to the YAML front matter.
+- If you want to completely bypass the template engine and just write your own HTML page, simply omit the YAML front matter. Only do this if you know how to write HTML!
+
 1. <span style="color: blue;">M. DAMRE</span>, A. Dayananda, R. A. Varikoti, G. Stan, and R. I. Dima, Factors underlying asymmetric dynamics of disaggregase and microtubule severing AAA+ machines," bioRχiv, nov 2020.
 2. <span style="color: blue;">M. DAMRE</span>, R. A. Varikoti, and R. Dima, Molecular dynamics study of katanin oligomeres: A mt-severing enzyme," Bulletin of the American Physical Society, vol. 65, 2020.
 3. <span style="color: blue;">M. DAMRE</span>, A. Marchetto, and A. Giorgetti, Mermaid: dedicated web server to prepare and run coarse-grained membrane protein dynamics," Nucleic acids research, vol. 47, no. W1, pp. W456{W461, 2019.
