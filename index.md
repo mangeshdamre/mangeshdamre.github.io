@@ -16,19 +16,19 @@ H3{color:White !important; background-color: DarkGreen;}
 02/2019-continue... \
 Department of Chemistry \
 University of Cincinnati, OH, 45239, USA
-2. **Junior Research Fellow** \
+2. **`Junior Research Fellow`** \
 08/2013-03/2014 \
 Department of Pharmacoinformatics \
 NIPER, Mohali, India
 
 ### EDUCATION
-1. **PhD in Computational Neurobiology** \
+1. **`PhD in Computational Neurobiology`** \
 2014-2018 \
 SISSA, Treiste, Italy
-2. **MS Pharmacoinformatics** \
+2. **`MS Pharmacoinformatics`** \
 2011-2013 \
 NIPER, Mohali, India
-3. **B.Pharm** \
+3. **`B.Pharm`** \
 2007-2011 \
 Government College of Pharmacy, Amravati, MH, India
 
