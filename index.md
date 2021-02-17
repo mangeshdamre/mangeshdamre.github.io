@@ -16,10 +16,21 @@ H3{color:White !important; background-color: DarkGreen;}
 02/2019-continue... \
 Department of Chemistry \
 University of Cincinnati, OH, 45239, USA
+- Conducted independent Computational Chemistry research and development to attain short and long-term objectives.
+- Maintained accurate records of research findings and provided statistical analysis of data results.
+- Drafted manuscripts and presented findings at major 3 National and International conferences.
+- R package used to analyze raw data obtained from molecular dynamics simulations using Bio3D R package.
+- Preparation of homology model of protein structure and perform molecular dynamics simulations at Ohio Supercomputer Center (OSC) cluster and at Pittsburgh Supercomputing Center (PSC) resources.
+- Wrote several bash scripts to create all initial input files for GROMACS software to perform molecular dynamics simulations and to perform various analysis of obtained data from experiments.
+  
 2. **`Junior Research Fellow`** \
 08/2013-03/2014 \
 Department of Pharmacoinformatics \
 NIPER, Mohali, India
+- Supported and supervised students in Pharmacoinformatics research programs from brainstorming areas for potential research through publishing papers on completed projects.
+- Built QSAR models to design new drug molecules.
+- Edited papers for submission to prestigious journals, including GENE, Medicinal Chemistry Research, Bioorganic & medicinal chemistry letters, Current neurovascular research, Journal of Molecular Graphics and Modelling, Journal of Taiwan Institute of Chemical Engineers, PPAR Research, Journal of Molecular
+Structure, Current topics in Medicinal Chemistry, Arabian Journal of Chemistry, etc.
 
 ### EDUCATION
 1. **`PhD in Computational Neurobiology`** \
