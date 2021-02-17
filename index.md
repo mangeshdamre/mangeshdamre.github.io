@@ -16,12 +16,12 @@ H3{color:White !important; background-color: DarkGreen;}
 02/2019-continue... \
 Department of Chemistry \
 University of Cincinnati, OH, 45239, USA
-- Conducted independent Computational Chemistry research and development to attain short and long-term objectives.
-- Maintained accurate records of research findings and provided statistical analysis of data results.
-- Drafted manuscripts and presented findings at major 3 National and International conferences.
-- R package used to analyze raw data obtained from molecular dynamics simulations using Bio3D R package.
-- Preparation of homology model of protein structure and perform molecular dynamics simulations at Ohio Supercomputer Center (OSC) cluster and at Pittsburgh Supercomputing Center (PSC) resources.
-- Wrote several bash scripts to create all initial input files for GROMACS software to perform molecular dynamics simulations and to perform various analysis of obtained data from experiments.
+- ***Conducted independent Computational Chemistry research and development to attain short and long-term objectives.***
+- ***Maintained accurate records of research findings and provided statistical analysis of data results.***
+- ***Drafted manuscripts and presented findings at major 3 National and International conferences.***
+- ***R package used to analyze raw data obtained from molecular dynamics simulations using Bio3D R package.***
+- ***Preparation of homology model of protein structure and perform molecular dynamics simulations at Ohio Supercomputer Center (OSC) cluster and at Pittsburgh Supercomputing Center (PSC) resources.***
+- ***Wrote several bash scripts to create all initial input files for GROMACS software to perform molecular dynamics simulations and to perform various analysis of obtained data from experiments.***
   
 2. **`Junior Research Fellow`** \
 08/2013-03/2014 \
