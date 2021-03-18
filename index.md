@@ -9,7 +9,13 @@ H3{color:White !important; background-color: DarkGreen;}
 ---
 
 ### INTRODUCTION 
-<p align="justify">Highly motivated Postdoctoral Researcher conducts Computational Chemistry research and participates in brainstorming topics that demonstrate experience with complex data analysis and high-performance computing. Dedicated, versatile computational chemist, author and co-author of international publications in peer-reviewed journals with extensive research experience in molecular modeling. Recent PhD in Neurobiology (Computational) with effective verbal and written communication skills to deliver excellent presentations and prepare written reports. Broad range of knowledge in advanced computational techniques. Develop and apply computational methods in the fields of biophysics, chemistry and other computationally intensive areas. Optimize and parallelize scientific programs for conventional clusters, supercomputers and GPU accelerated computers. Solve challenging problems in computational biophysics/ chemistry field through varied skills and interdisciplinary science knowledge.</p>
+<p align="justify">
+- Strong technical skills including 10+ years of hands-on experience in Computational Chemistry, Chemoinformatics, Molecular Dynamics, Molecular Docking, Homology Modelling, Free Energy Calculations, 3D-QSAR, Virtual screening.
+• Proven ability to design, execute, analyze, interpret, and document results of experiments as demonstrated by a 16 publication record.
+• Excellent in science communication and technical writing skills.
+• Ability to achieve research targets by managing multiple projects simultaneously.
+• Proven ability to work in a multidisciplinary team in highly collaborative environments.
+• Extensive experience in supervising, mentoring, and training lab personnel.</p>
 
 ### WORK EXPERIENCE
 1. **`PostDoctoral Researcher`** \
