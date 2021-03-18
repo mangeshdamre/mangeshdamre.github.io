@@ -9,13 +9,12 @@ H3{color:White !important; background-color: DarkGreen;}
 ---
 
 ### INTRODUCTION 
-<p align="justify">
-- Strong technical skills including 10+ years of hands-on experience in Computational Chemistry, Chemoinformatics, Molecular Dynamics, Molecular Docking, Homology Modelling, Free Energy Calculations, 3D-QSAR, Virtual screening.
-- Proven ability to design, execute, analyze, interpret, and document results of experiments as demonstrated by a 16 publication record.
+- Strong technical skills including <span style="color: red;">10+</span> years of hands-on experience in <span style="color: red;">Computational Chemistry, Chemoinformatics, Molecular Dynamics, Molecular Docking, Homology Modelling, Free Energy Calculations, 3D-QSAR, Virtual screening</span>.
+- Proven ability to <span style="color: red;">design, execute, analyze, interpret, and document results</span> of experiments as demonstrated by a <span style="color: blue;">16</span> publication record.
 - Excellent in science communication and technical writing skills.
 - Ability to achieve research targets by managing multiple projects simultaneously.
 - Proven ability to work in a multidisciplinary team in highly collaborative environments.
-- Extensive experience in supervising, mentoring, and training lab personnel.</p>
+- Extensive experience in supervising, mentoring, and training lab personnel.
 
 ### WORK EXPERIENCE
 1. **`Molecular Dynamics Expert `** \
@@ -28,8 +27,8 @@ As a Postdoctoral Associate:
 structure of a related homologous protein (the "template").*
 - *Participated in a collaborative research team involved in the development of the project.*
 - *Provided technical assistance as subject matter expert in computational chemistry.*
-- *Published 1first-author paper and 2 first-author publications in preparation.*
-- *Mentored and trained more than 5 graduate and undergraduate students.*
+- *Published <span style="color: blue;">1 first-author</span> paper and <span style="color: blue;">2 first-author</span> publications in preparation.*
+- *Mentored and trained more than <span style="color: blue;">5</span> graduate and undergraduate students.*
   
 2. **`Homology modelling expert`** \
 11/2014-11/2018 \
@@ -38,7 +37,7 @@ Trieste, Italy \
 As a Doctoral Student:
 - *Develop web server to perform Coarse-grained molecular dynamics (MERMAID).*
 - *Perform homology modeling and molecular dynamics of membrane proteins.*
-- *Published 2 first-author research publications.*
+- *Published <span style="color: blue;">2 first-author</span> research publications.*
 
 3. **`Computational Chemist`** \
 08/2013-03/2014 \
@@ -55,7 +54,7 @@ Mohali, India \
 As a Master's Student:
 - *Developed 3D-QSAR models for the development of protein kinase inhibitors as new potential anti-tubercular agents.*
 - *Perform molecular dynamics simulations to study structural insights for design of subtype-selective peroxisome proliferator activated receptor-α (PPAR-α) agonists.*
-- *Collaborate in multiple cross-disciplinary projects, which results in 13 research publications with 1 first author, 2 second author and 1 book chapter.*
+- *Collaborate in multiple cross-disciplinary projects, which results in <span style="color: blue;">13</span> research publications with <span style="color: blue;">1 first author, 2 second author and 1 book chapter</span>.*
 
 ### EDUCATION
 1. **`PhD in Computational Neurobiology`** \
