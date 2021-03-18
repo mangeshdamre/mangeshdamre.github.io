@@ -11,32 +11,51 @@ H3{color:White !important; background-color: DarkGreen;}
 ### INTRODUCTION 
 <p align="justify">
 - Strong technical skills including 10+ years of hands-on experience in Computational Chemistry, Chemoinformatics, Molecular Dynamics, Molecular Docking, Homology Modelling, Free Energy Calculations, 3D-QSAR, Virtual screening.
-• Proven ability to design, execute, analyze, interpret, and document results of experiments as demonstrated by a 16 publication record.
-• Excellent in science communication and technical writing skills.
-• Ability to achieve research targets by managing multiple projects simultaneously.
-• Proven ability to work in a multidisciplinary team in highly collaborative environments.
-• Extensive experience in supervising, mentoring, and training lab personnel.</p>
+- Proven ability to design, execute, analyze, interpret, and document results of experiments as demonstrated by a 16 publication record.
+- Excellent in science communication and technical writing skills.
+- Ability to achieve research targets by managing multiple projects simultaneously.
+- Proven ability to work in a multidisciplinary team in highly collaborative environments.
+- Extensive experience in supervising, mentoring, and training lab personnel.</p>
 
 ### WORK EXPERIENCE
-1. **`PostDoctoral Researcher`** \
+1. **`Molecular Dynamics Expert `** \
 02/2019-continue... \
 Department of Chemistry \
-University of Cincinnati, OH, 45239, USA
-- *Conducted independent Computational Chemistry research and development to attain short and long-term objectives.*
-- *Maintained accurate records of research findings and provided statistical analysis of data results.*
-- *Drafted manuscripts and presented findings at major 3 National and International conferences.*
-- *R package used to analyze raw data obtained from molecular dynamics simulations using Bio3D R package.*
-- *Preparation of homology model of protein structure and perform molecular dynamics simulations at Ohio Supercomputer Center (OSC) cluster and at Pittsburgh Supercomputing Center (PSC) resources.*
-- *Wrote several bash scripts to create all initial input files for GROMACS software to perform molecular dynamics simulations and to perform various analysis of obtained data from experiments.*
+University of Cincinnati, OH, 45239, USA \
+As a Postdoctoral Associate:
+- *Expanded the use of Molecular dynamics techniques to study protein conformational changes.*
+- *Perform the homology modelling to construct an atomic-resolution model of the "target" protein from its amino acid sequence and an experimental three-dimensional
+structure of a related homologous protein (the "template").*
+- *Participated in a collaborative research team involved in the development of the project.*
+- *Provided technical assistance as subject matter expert in computational chemistry.*
+- *Published 1first-author paper and 2 first-author publications in preparation.*
+- *Mentored and trained more than 5 graduate and undergraduate students.*
   
-2. **`Junior Research Fellow`** \
+2. **`Homology modelling expert`** \
+11/2014-11/2018 \
+SISSA \
+Trieste, Italy \
+As a Doctoral Student:
+- *Develop web server to perform Coarse-grained molecular dynamics (MERMAID).*
+- *Perform homology modeling and molecular dynamics of membrane proteins.*
+- *Published 2 first-author research publications.*
+
+3. **`Computational Chemist`** \
 08/2013-03/2014 \
-Department of Pharmacoinformatics \
-NIPER, Mohali, India
-- *Supported and supervised students in Pharmacoinformatics research programs from brainstorming areas for potential research through publishing papers on completed projects.*
-- *Built QSAR models to design new drug molecules.*
-- *Edited papers for submission to prestigious journals, including GENE, Medicinal Chemistry Research, Bioorganic & medicinal chemistry letters, Current neurovascular research, Journal of Molecular Graphics and Modelling, Journal of Taiwan Institute of Chemical Engineers, PPAR Research, Journal of Molecular
-Structure, Current topics in Medicinal Chemistry, Arabian Journal of Chemistry, etc.*
+NIPER \
+Mohali, India \
+As a Junior Research Fellow:
+- *Worked on Computer Aided Drug Design projects in a multidisciplinary collaborative
+environment.*
+
+4. **`CADD Expert`** \
+08/2013-03/2014 \
+NIPER \
+Mohali, India \
+As a Master's Student:
+- *Developed 3D-QSAR models for the development of protein kinase inhibitors as new potential anti-tubercular agents.*
+- *Perform molecular dynamics simulations to study structural insights for design of subtype-selective peroxisome proliferator activated receptor-α (PPAR-α) agonists.*
+- *Collaborate in multiple cross-disciplinary projects, which results in 13 research publications with 1 first author, 2 second author and 1 book chapter.*
 
 ### EDUCATION
 1. **`PhD in Computational Neurobiology`** \
@@ -65,6 +84,11 @@ Government College of Pharmacy, Amravati, MH, India
 - Oral presentation in <span style="color: red;">Winter School Canazei, Applied bioinformatics</span>, 2018, Verona, Italy
 - Best poster award winner in 5th <span style="color: red;">DMPK</span>, 2014, NIPER, Mohali, India
 - <span style="color: red;">Developed web server</span> : (**<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID</a>**) Martini Coarse Grained Membrane Protein Dynamics
+
+### GUEST REVIEWER
+- Scientific Reports (SERP)
+- Computational and Structural Biotechnology Journal (CSBJ) Elsevier
+- Journal of Biomolecular Screening (JBS) SAGE Journals
 
 ### PUBLICATIONS
 1. <span style="color: blue;">M. DAMRE</span>, A. Dayananda, R. A. Varikoti, G. Stan, and R. I. Dima, Factors underlying asymmetric dynamics of disaggregase and microtubule severing AAA+ machines," bioRχiv, nov 2020.
