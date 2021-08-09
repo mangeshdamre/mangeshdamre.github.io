@@ -82,8 +82,7 @@ Government College of Pharmacy, Amravati, MH, India
 - Best poster award winner in <span style="color: red;">The European Iron Club</span>, 2018, ETH Z¨urich
 - Oral presentation in <span style="color: red;">Winter School Canazei, Applied bioinformatics</span>, 2018, Verona, Italy
 - Best poster award winner in 5th <span style="color: red;">DMPK</span>, 2014, NIPER, Mohali, India
-- <span style="color: red;">Developed web server</span> : **<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID(Old)</a>** and 
-                                                           **<a href="https://molsim.sci.univr.it/mermaid/main.php target="_blank">MERMAID(New)</a>** Martini Coarse Grained Membrane Protein Dynamics
+- <span style="color: red;">Developed web server</span> : **<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID(Old)</a>** and </p> **<a href="https://molsim.sci.univr.it/mermaid/main.php target="_blank">MERMAID(New)</a>** Martini coarsE gRained MembrAne proteIn Dynamics
 
 ### GUEST REVIEWER
 - Scientific Reports (SERP)
