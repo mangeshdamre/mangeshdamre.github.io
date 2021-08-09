@@ -82,7 +82,7 @@ Government College of Pharmacy, Amravati, MH, India
 - Best poster award winner in <span style="color: red;">The European Iron Club</span>, 2018, ETH Z¨urich
 - Oral presentation in <span style="color: red;">Winter School Canazei, Applied bioinformatics</span>, 2018, Verona, Italy
 - Best poster award winner in 5th <span style="color: red;">DMPK</span>, 2014, NIPER, Mohali, India
-- <span style="color: red;">Developed web server</span> : **<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID(Old)</a>** and **<a href="https://molsim.sci.univr.it/mermaid/main.php" target="_blank">MERMAID(New)</a>** Martini coarsE gRained MembrAne proteIn Dynamics
+- <span style="color: red;">Developed web server</span> : **<a href="https://molsim.sci.univr.it/mangesh/index.php" target="_blank">MERMAID(Old)</a>** and **<a href="https://molsim.sci.univr.it/mermaid/main.php" target="_blank">MERMAID(New)</a>** Martini coarsE gRained MembrAne proteIn Dynamics. Tutorial: <a href="https://www.youtube.com/watch?v=hbwI7YnonEY&t=56s" target="_blank">Youtube Link</a>
 - Quality assurance and Software testing: **<a href="http://www.niper.gov.in/pi_dev_tools/DruLiToWeb/DruLiTo_index.html" target="_blank">DRULITO(DrugLikeness Tool)</a>**
 
 ### GUEST REVIEWER
