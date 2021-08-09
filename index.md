@@ -18,7 +18,7 @@ H3{color:White !important; background-color: DarkGreen;}
 
 ### WORK EXPERIENCE
 1. **`Molecular Dynamics Expert `** \
-02/2019-continue... \
+02/2019-05/2021 \
 Department of Chemistry \
 University of Cincinnati, OH, 45239, USA \
 As a Postdoctoral Associate:
